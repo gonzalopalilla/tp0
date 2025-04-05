@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "process.h": "c",
+        "utils.h": "c",
+        "log.h": "c",
+        "netdb.h": "c",
+        "list.h": "c",
+        "socket.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
